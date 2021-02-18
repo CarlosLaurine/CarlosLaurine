@@ -8,11 +8,11 @@
 
 ##  Bem-vindo(a)  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif"><img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px" style="max-width:100%;"></a> 
 
-    📍 Natural de Salvador-BA.
+    📍 Salvador-BA.
 
     . Estudante de Engenharia de Software 🎓
 
-    . Atualmente estudando a linguagem Java ☕💞 
+    . Atualmente estudando a linguagem Java ☕
     
     . Estudando com foco em Java Web 🚀☕
 
