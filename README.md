@@ -6,6 +6,7 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5c68c59ed42033bd50ca27da066948711f1892a6cb49ab575fe440ae809e26a3/68747470733a2f2f62616c7461696f2e626c6f622e636f72652e77696e646f77732e6e65742f7374617469632f696d616765732f6461726b2f686f6d652d6865726f2d696c6c757374726174696f6e2e737667"><img src="https://camo.githubusercontent.com/5c68c59ed42033bd50ca27da066948711f1892a6cb49ab575fe440ae809e26a3/68747470733a2f2f62616c7461696f2e626c6f622e636f72652e77696e646f77732e6e65742f7374617469632f696d616765732f6461726b2f686f6d652d6865726f2d696c6c757374726174696f6e2e737667" width="400px" align="right" alt="carloslaurinedev" data-canonical-src="https://baltaio.blob.core.windows.net/static/images/dark/home-hero-illustration.svg" style="max-width:100%;"></a></p>
 
 
+
 ##  Welcome to My Dev Profile!<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif"><img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px" style="max-width:100%;"></a> 
 
     📍 Salvador-BA.
