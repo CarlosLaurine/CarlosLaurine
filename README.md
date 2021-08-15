@@ -64,7 +64,7 @@
 <p align="center">
 
 
-<h3> My Weekly Programming Stats: </h3>
+<h3> Weekly Programming Stats: </h3>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carloslaurine)](https://github.com/anuraghazra/github-readme-stats)
     
