@@ -65,7 +65,7 @@
 <a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="css" width="90" height="30" style="max-width:100%;"></a>      
 </p>    
 
-
+<h2> My GitHub Stats: </h2>
 
 ![Carlos Laurine's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosLaurine&theme=dark&show_icons=true)
 <p align="center">
