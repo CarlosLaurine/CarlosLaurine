@@ -15,6 +15,8 @@
     . Software Engineering Undergrad 🎓
 
     . Java Backend Developer ☕
+    
+    . Spring REST API Developer 🍃
 
     . Currently Focusing on Web Fullstack Development🚀☕
 
