@@ -37,7 +37,8 @@
 <a  target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="html" width="60" height="30" style="max-width:100%;"/></a>    
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" width="60" height="30" style="max-width:100%;"/></a>        
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="30"/></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="30" height="30" style="max-width:100%;"></a>      
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="30" height="30" style="max-width:100%;"></a>  
+<a><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></img></a>
 </p>
 <p align="left">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661"><img src="https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-007396?style=flat-square&amp;logo=java" style="max-width:100%;"></a>
@@ -53,6 +54,7 @@
 <span><img src="https://camo.githubusercontent.com/783c0ba99432e0f18a998dbbcb3fb46a3f0bb564751c08bbaf138189716c1643/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e5f4157532d3233324633453f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" style="max-width:100%;"></span>
 <span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img></span>
 </div>      
 </p>
 
