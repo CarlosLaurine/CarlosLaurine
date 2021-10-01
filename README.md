@@ -59,7 +59,7 @@
 </p>
 
 <p>
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="css" width="90" height="30" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="css" width="90" height="30" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="css" width="90" height="30" style="max-width:100%;"></a>     
 <a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="css" width="90" height="30" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="css" width="90" height="30" style="max-width:100%;"></a>       
