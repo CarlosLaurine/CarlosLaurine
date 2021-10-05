@@ -55,18 +55,19 @@
 <span><img src="https://camo.githubusercontent.com/783c0ba99432e0f18a998dbbcb3fb46a3f0bb564751c08bbaf138189716c1643/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e5f4157532d3233324633453f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" style="max-width:100%;"></span>
 <span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></img></span>
 <span><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img></span>
 </div>      
 </p>
 
 <p>
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="css" width="90" height="30" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="css" width="90" height="30" style="max-width:100%;"></a>     
+<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="css" width="110" height="30" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="css" width="110" height="30" style="max-width:100%;"></a>     
 <a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="css" width="90" height="30" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="css" width="90" height="30" style="max-width:100%;"></a>       
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="css" width="90" height="30" style="max-width:100%;"></a>  
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="css" width="90" height="30" style="max-width:100%;"></a> 
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="css" width="90" height="30" style="max-width:100%;"></a> 
+<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="css" width="110" height="30" style="max-width:100%;"></a>       
+<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="css" width="95" height="30" style="max-width:100%;"></a>  
+<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="css" width="95" height="30" style="max-width:100%;"></a> 
+<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="css" width="87" height="30" style="max-width:100%;"></a> 
 </p>    
 
 <h2> GitHub Stats: </h2>
