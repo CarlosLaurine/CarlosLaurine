@@ -71,6 +71,10 @@
 <a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="css" width="87" height="30" style="max-width:100%;"></a> 
 </p>    
 
+<p>
+<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="css" width="140" height="30" style="max-width:100%;"></a> 
+</p>
+    
 <h2> GitHub Stats: </h2>
 
 ![Carlos Laurine's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosLaurine&theme=dark&show_icons=true)
