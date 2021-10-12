@@ -72,7 +72,7 @@
 </p>    
 
 <p>
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="css" width="140" height="30" style="max-width:100%;"></a> 
+<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="css" width="160" height="30" style="max-width:100%;"></a> 
 </p>
     
 <h2> GitHub Stats: </h2>
