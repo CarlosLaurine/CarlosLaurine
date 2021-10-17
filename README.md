@@ -71,8 +71,9 @@
 </p>    
 
 <p>
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="css" width="160" height="30" style="max-width:100%;"></a> 
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="css" width="100" height="30" style="max-width:100%;"></a> 
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="css" width="160" height="30" style="max-width:100%;"></a> 
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="css" width="100" height="30" style="max-width:100%;"></a> 
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"><img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="css" width="100" height="30" style="max-width:100%;"></a> 
 </p>
     
 <h2> GitHub Stats: </h2>
