@@ -77,7 +77,10 @@
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="css" width="100" height="30" style="max-width:100%;"></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a> 
 </p>
-    
+
+<p>
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"><img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
+</p>    
 <h2> GitHub Stats: </h2>
 
 ![Carlos Laurine's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosLaurine&theme=dark&show_icons=true)
