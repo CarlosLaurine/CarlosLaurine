@@ -80,6 +80,7 @@
 
 <p>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"><img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white"><img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
 </p>    
 <h2> GitHub Stats: </h2>
 
