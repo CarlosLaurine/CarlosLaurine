@@ -94,7 +94,7 @@
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLaurine&layout=compact&theme=dark)
 
-## Commit Stats:
+<h2> Commit Stats: </h2>
 
 ![Snake animation](https://github.com/CarlosLaurine/CarlosLaurine/blob/output/github-contribution-grid-snake.svg)
     
