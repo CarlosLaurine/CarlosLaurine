@@ -19,6 +19,8 @@
     . Spring REST API Developer 🍃
 
     . Currently Focusing on Web Fullstack Development🚀☕
+    
+    . Specializing in Microservices Architecture ⚙️
 
     . Passionate about Innovation and Challenges 📚
 
