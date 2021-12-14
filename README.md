@@ -89,6 +89,12 @@
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="css" width="92" height="30" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"><img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
 </p>    
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
+<p>
+
+    
+</p>
+
 <h2> GitHub Stats: </h2>
 
 ![Carlos Laurine's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosLaurine&theme=dark&show_icons=true)
