@@ -94,6 +94,7 @@
     <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a> 
+    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
 </p>
 
 <h2> GitHub Stats: </h2>
