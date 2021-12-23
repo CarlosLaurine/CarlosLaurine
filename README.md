@@ -64,7 +64,7 @@
 
 <p>
 <a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="css" width="110" height="30" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="css" width="110" height="30" style="max-width:100%;"></a>     
+<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="css" width="120" height="30" style="max-width:100%;"></a>    
 <a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="css" width="110" height="30" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="css" width="90" height="30" style="max-width:100%;"></a>       
 <a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="css" width="95" height="30" style="max-width:100%;"></a>  
@@ -74,7 +74,7 @@
 
 <p>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"><img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="css" width="160" height="30" style="max-width:100%;"></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="css" width="120" height="30" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href=""><img src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="css" width="110" height="30" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="css" width="100" height="30" style="max-width:100%;"></a> 
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"><img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="css" width="100" height="30" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="css" width="100" height="30" style="max-width:100%;"></a> 
