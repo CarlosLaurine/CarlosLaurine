@@ -99,6 +99,10 @@
     <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="css" width="92" height="30" style="max-width:100%;"></a>
 </p>
 
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
+</p>
+
 <h2> GitHub Stats: </h2>
 
 ![Carlos Laurine's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosLaurine&theme=dark&show_icons=true)
