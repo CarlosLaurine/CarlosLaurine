@@ -105,6 +105,7 @@
     <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
 </p>
 
 <h2> GitHub Stats: </h2>
