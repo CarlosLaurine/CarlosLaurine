@@ -123,7 +123,9 @@
 <h2> Commit Stats: </h2>
 
 ![Snake animation](https://github.com/CarlosLaurine/CarlosLaurine/blob/output/github-contribution-grid-snake.svg)
-    
+
+<a target="_blank" rel="noopener noreferrer" href="https://github-profile-trophy.vercel.app/?username=CarlosLaurine"><img src="https://github-profile-trophy.vercel.app/?username=CarlosLaurine" alt="css" style="max-width:100%;"></a>
+
 <h2> Profile Visits </h2>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=CarlosLaurine.CarlosLaurine)
