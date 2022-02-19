@@ -108,6 +108,10 @@
     <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
 </p>
 
+<p>
+  <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/New Relic-008C99?style=for-the-badge&logo=NewRelic&logoColor=white"><img src="https://img.shields.io/badge/New Relic-008C99?style=for-the-badge&logo=NewRelic&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
+</p>
+
 <h2> GitHub Stats: </h2>
 
 ![Carlos Laurine's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosLaurine&theme=dark&show_icons=true)
