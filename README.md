@@ -129,6 +129,9 @@
 
 ![Snake animation](https://github.com/CarlosLaurine/CarlosLaurine/blob/output/github-contribution-grid-snake.svg)
 
+<a target="_blank" rel="noopener noreferrer" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosLaurine&theme=vue"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosLaurine&theme=vue" alt="css" style="max-width:100%;"></a>
+
+
 <a target="_blank" rel="noopener noreferrer" href="https://github-profile-trophy.vercel.app/?username=CarlosLaurine"><img src="https://github-profile-trophy.vercel.app/?username=CarlosLaurine" alt="css" style="max-width:100%;"></a>
 
 <h2> Profile Visits </h2>
