@@ -130,10 +130,12 @@
 
 ![Snake animation](https://github.com/CarlosLaurine/CarlosLaurine/blob/output/github-contribution-grid-snake.svg)
 
-<a target="_blank" rel="noopener noreferrer" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosLaurine&theme=vue"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosLaurine&theme=vue" alt="css" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=CarlosLaurine"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosLaurine" alt="css" style="width: 690px"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosLaurine&theme=vue"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosLaurine&theme=vue" alt="css" style="width: 690px;"></a>
 
 
-<a target="_blank" rel="noopener noreferrer" href="https://github-profile-trophy.vercel.app/?username=CarlosLaurine"><img src="https://github-profile-trophy.vercel.app/?username=CarlosLaurine" alt="css" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github-profile-trophy.vercel.app/?username=CarlosLaurine"><img src="https://github-profile-trophy.vercel.app/?username=CarlosLaurine" alt="css" style="width: 690px;"></a>
 
 <h2> Profile Visits </h2>
 
