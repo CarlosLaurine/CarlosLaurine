@@ -112,6 +112,11 @@
   <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/New Relic-008C99?style=for-the-badge&logo=NewRelic&logoColor=white"><img src="https://img.shields.io/badge/New Relic-008C99?style=for-the-badge&logo=NewRelic&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white"><img src="https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white" alt="css" width="122" height="30" style="max-width:100%;"></a>
     <img src="https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"><img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" alt="css" width="122" height="30" style="max-width:100%;"></a>
+    
+    
+    
+
 </p>
 
 <h2> GitHub Stats: </h2>
