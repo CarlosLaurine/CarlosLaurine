@@ -12,7 +12,9 @@
 
     📍 Salvador-BA.
 
-    . Software Engineering Undergrad 🎓
+    . Scupp Ventures Venture Studio Co-Founder and CEO 💼
+
+    . Software Engineer 🧑‍💻
 
     . Java Backend Developer ☕
     
@@ -23,6 +25,8 @@
     . Specializing in Microservices Architecture ⚙️
 
     . Passionate about Innovation and Challenges 📚
+
+    . AI Researcher and Evangelist ✨
 
 
 
