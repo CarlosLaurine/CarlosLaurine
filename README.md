@@ -166,10 +166,19 @@ Research and engineering tracks at the studio, mostly through SapucaIA:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosLaurine&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLaurine&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most used languages" width="49%">
+</picture>
 
-<img src="https://raw.githubusercontent.com/CarlosLaurine/CarlosLaurine/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosLaurine/CarlosLaurine/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/CarlosLaurine/CarlosLaurine/output/github-snake.svg" alt="Contribution snake" width="100%">
+</picture>
 
 </div>
 
