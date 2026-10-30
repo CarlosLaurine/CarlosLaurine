@@ -70,18 +70,30 @@ I work at the point where **production reliability**, **applied AI** and **ventu
 
 A venture studio and R&D ecosystem built in Salvador. Each company works in its own market and shares technology, knowledge and connections with the others.
 
-| Company | What it does |
-|---|---|
-| [**Scupp**](https://scupp.com.br) | Event discovery and community app. Official Sympla partner, with the largest events showcase in Brazil as its goal |
-| **Nexupp** | Gamified innovation and networking app and tech community, with in-person meetups in Salvador |
-| **SapucaIA** | Corporate AI, machine learning and data science for large organizations. Client: Neoenergia |
-| **RaízesHUB** | Independent certification that AI processing ran on renewable energy. An initiative of the SapucaIA team |
-| **Svend** | Real-estate data intelligence and smart property showcase |
-| **Shion** | Embedded computer and real-time telemetry for motorcycles |
-| **Spym** | Driver's-license education with AI-supported theory content |
-| **ÆOS** | Strategy, production and performance marketing |
-| **Run Training** | Gym management with AI-generated workouts and diets, reviewed by professionals |
-| **AleteIA Studio** | Films for digital products, made with AI on local infrastructure |
+<table>
+  <tr>
+    <td><a href="https://scupp.com.br"><img src="./assets/cards/scupp.svg" alt="Scupp" width="100%"></a></td>
+    <td><a href="https://nexupp.com.br"><img src="./assets/cards/nexupp.svg" alt="Nexupp" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://sapucaia.ia.br"><img src="./assets/cards/sapucaia.svg" alt="SapucaIA" width="100%"></a></td>
+    <td><a href="https://raizeshub.com"><img src="./assets/cards/raizeshub.svg" alt="RaízesHUB" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://svend-webapp.vercel.app/"><img src="./assets/cards/svend.svg" alt="Svend" width="100%"></a></td>
+    <td><a href="https://shion-lp.vercel.app/"><img src="./assets/cards/shion.svg" alt="Shion" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://spym-lp.vercel.app/"><img src="./assets/cards/spym.svg" alt="Spym" width="100%"></a></td>
+    <td><a href="https://aeos.com.br"><img src="./assets/cards/aeos.svg" alt="ÆOS" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://runtraining.net.br"><img src="./assets/cards/runtraining.svg" alt="Run Training" width="100%"></a></td>
+    <td><a href="https://aleteiastudio.com/"><img src="./assets/cards/aleteia.svg" alt="AleteIA Studio" width="100%"></a></td>
+  </tr>
+</table>
+
+<sub>Every card links to the company's site. The full ecosystem is at <a href="https://scuppventures.com">scuppventures.com</a>.</sub>
 
 ### Highlights
 
