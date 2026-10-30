@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/banner.svg" alt="Carlos Laurine: reliable systems, built to transform markets" width="100%">
+
 # Carlos Vítor Laurine Pinho
 
 ### Senior Site Reliability Engineer &nbsp;·&nbsp; Venture Studio CEO &nbsp;·&nbsp; Applied AI
@@ -8,15 +10,15 @@
 
 📍 Salvador, Bahia, Brazil
 
-<a href="https://www.linkedin.com/in/carlos-laurine-a58267144/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" height="30"></a>
-<a href="https://scuppventures.com"><img src="https://img.shields.io/badge/Scupp_Ventures-D4AF37?style=for-the-badge&logoColor=white" alt="Scupp Ventures" height="30"></a>
-<a href="mailto:carlos_laurine@scupp.com.br"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"></a>
+<a href="https://www.linkedin.com/in/carlos-laurine-a58267144/"><img src="https://img.shields.io/badge/LinkedIn-291724?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
+<a href="https://scuppventures.com"><img src="https://img.shields.io/badge/Scupp_Ventures-C8264A?style=for-the-badge&logoColor=white" alt="Scupp Ventures" height="30"></a>
+<a href="mailto:carlos_laurine@scupp.com.br"><img src="https://img.shields.io/badge/Email-291724?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"></a>
 
 </div>
 
 ---
 
-## 👋 About
+## `01` &nbsp;About
 
 I work at the point where **production reliability**, **applied AI** and **venture building** meet.
 
@@ -27,9 +29,17 @@ I work at the point where **production reliability**, **applied AI** and **ventu
 
 > **How I work:** evidence over enthusiasm. Small experiments before big rollouts, assumptions revisited when reality changes, and technical ideas explained in plain business terms.
 
+**Right now**
+
+- Finishing two postgraduate programs (Applied AI, ends Feb 2027; Software Architecture and Data Science with Cybersecurity, ends Nov 2026).
+- Building AI-assisted quality and risk checks for the delivery lifecycle at Thomson Reuters.
+- Preparing the Nexupp app launch on 28 Nov 2026 and the studio's presence at BTX 2026.
+
+**Languages:** Portuguese (native) · English (C2 Proficient, EF SET)
+
 ---
 
-## 🧭 Focus Areas
+## `02` &nbsp;Focus Areas
 
 | | |
 |---|---|
@@ -40,7 +50,7 @@ I work at the point where **production reliability**, **applied AI** and **ventu
 
 ---
 
-## 🏢 Experience Snapshot
+## `03` &nbsp;Experience Snapshot
 
 | Role | Where | Period |
 |---|---|---|
@@ -54,7 +64,9 @@ I work at the point where **production reliability**, **applied AI** and **ventu
 
 ---
 
-## 🌐 Scupp Ventures
+## `04` &nbsp;Scupp Ventures
+
+> ***One group, many fronts.*** *An ecosystem built to transform markets.*
 
 A venture studio and R&D ecosystem built in Salvador. Each company works in its own market and shares technology, knowledge and connections with the others.
 
@@ -71,18 +83,27 @@ A venture studio and R&D ecosystem built in Salvador. Each company works in its 
 | **Run Training** | Gym management with AI-generated workouts and diets, reviewed by professionals |
 | **AleteIA Studio** | Films for digital products, made with AI on local infrastructure |
 
-### 🏆 Highlights
+### Highlights
 
 - **Web Summit Rio 2026:** took four ecosystem startups to the stage. Scupp, Svend and Run Training exhibited in the *Alpha* category, and SapucaIA was selected for *Beta*, the second-highest qualification tier.
 - **EGAESE 2026:** SapucaIA and GEOEX Tecnologias built a proprietary AI model for **Neoenergia** and won the case award. Asset-management AI covers seven verticals, starting with asset inventory and anomaly detection on a digital twin of operational data.
 - **Prêmio Innpulse Bahia 2026:** Nexupp is a semifinalist in the *Territórios de Inovação* category.
 - **Programs:** Google for Startups Cloud, Datadog for Startups, MongoDB for Startups, Founder Institute alumni.
 - **Ecosystem:** founding partner of the Startup Acceleration Program at **DOCA1** (Salvador's creative-economy hub). Partnerships with Grupo Alun (FIAP, Alura), AWS Student Builders Group, Sebrae and Darwin Startups. Sponsor of two university tech leagues (LAMIT at UCSAL, LACITE at UNIJORGE).
+- **Events and partners:** Nexupp took part as official partner, panelist and exhibitor at **AWS Student Community Day Salvador** (800+ attendees, the largest edition in Brazil at the time), exhibited at **SEMCOMP SENAI CIMATEC 2026.2** with two co-founders on stage, and will run the gamified networking for **BTX 2026** (Bahia Tech Experience) in partnership with Sebrae, with a main-stage talk and a Partner-category stand.
 - **Next:** official launch of the Nexupp app on **28 November 2026** at DOCA1.
+
+### Community impact
+
+| Where | Result |
+|---|---|
+| **Nexupp at DOCA1** (first two months) | ~30 recurring in-person participants per Saturday meetup, 300+ in the WhatsApp community, ~500 organic Instagram followers, mostly university students aged 18 to 26 |
+| **LAMIT, UCSal** (academic league supported by Scupp and Nexupp) | 200 at the opening event, 200 in talks with market professionals, 80 students at the Ford Day immersion |
+| **LACITE, UNIJORGE** | Scupp is godparent of the first technology and innovation league of the university; the opening filled the auditorium |
 
 ---
 
-## 🧪 Applied AI R&D
+## `05` &nbsp;Applied AI R&D
 
 Research and engineering tracks at the studio, mostly through SapucaIA:
 
@@ -95,13 +116,13 @@ Research and engineering tracks at the studio, mostly through SapucaIA:
 
 ---
 
-## 🛠️ Tech Stack
+## `06` &nbsp;Tech Stack
 
 **AI & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-D4AF37?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-C8264A?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-5E5C5C?style=flat-square)
 ![Fine-tuning](https://img.shields.io/badge/Fine--tuning-8A2BE2?style=flat-square)
@@ -149,7 +170,7 @@ Research and engineering tracks at the studio, mostly through SapucaIA:
 
 ---
 
-## 🎓 Education
+## `07` &nbsp;Education
 
 | Program | Institution | Status |
 |---|---|---|
@@ -162,23 +183,19 @@ Research and engineering tracks at the studio, mostly through SapucaIA:
 
 ---
 
-## 📊 GitHub
+## `08` &nbsp;GitHub
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most used languages" width="49%">
-</picture>
+<img src="./profile-summary-card-output/github_dark/3-stats.svg#gh-dark-mode-only" alt="GitHub stats" width="49%">
+<img src="./profile-summary-card-output/github/3-stats.svg#gh-light-mode-only" alt="GitHub stats" width="49%">
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg#gh-dark-mode-only" alt="Most used languages" width="49%">
+<img src="./profile-summary-card-output/github/2-most-commit-language.svg#gh-light-mode-only" alt="Most used languages" width="49%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosLaurine/CarlosLaurine/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/CarlosLaurine/CarlosLaurine/output/github-snake.svg" alt="Contribution snake" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/CarlosLaurine/CarlosLaurine/output/github-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake" width="100%">
+<img src="https://raw.githubusercontent.com/CarlosLaurine/CarlosLaurine/output/github-snake.svg#gh-light-mode-only" alt="Contribution snake" width="100%">
+
+<sub>Cards and snake refresh daily via GitHub Actions.</sub>
 
 </div>
 
@@ -188,7 +205,7 @@ Research and engineering tracks at the studio, mostly through SapucaIA:
 
 **Open to conversations on agentic AI, reliability engineering, venture building and innovation in Brazil and beyond.**
 
-<a href="https://www.linkedin.com/in/carlos-laurine-a58267144/"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" height="30"></a>
-<a href="https://scuppventures.com"><img src="https://img.shields.io/badge/scuppventures.com-D4AF37?style=for-the-badge" alt="scuppventures.com" height="30"></a>
+<a href="https://www.linkedin.com/in/carlos-laurine-a58267144/"><img src="https://img.shields.io/badge/Let's_connect-291724?style=for-the-badge" alt="Connect on LinkedIn" height="30"></a>
+<a href="https://scuppventures.com"><img src="https://img.shields.io/badge/scuppventures.com-C8264A?style=for-the-badge" alt="scuppventures.com" height="30"></a>
 
 </div>
