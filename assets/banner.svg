@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Carlos Laurine, Senior SRE and venture studio CEO">
+  <rect width="1200" height="260" rx="14" fill="#291724"/>
+  <rect x="0" y="0" width="8" height="260" rx="4" fill="#C8264A"/>
+  <circle cx="1080" cy="40" r="170" fill="#C8264A" opacity="0.10"/>
+  <circle cx="1140" cy="230" r="110" fill="#C8264A" opacity="0.14"/>
+  <text x="64" y="72" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="4" fill="#C8264A">SCUPP VENTURES</text>
+  <text x="64" y="140" font-family="Newsreader, Georgia, 'Times New Roman', serif" font-size="58" fill="#FFFFFF">Reliable systems.</text>
+  <text x="64" y="204" font-family="Newsreader, Georgia, 'Times New Roman', serif" font-size="58" font-style="italic" fill="#F5F2F4">Built to transform markets.</text>
+  <text x="1136" y="236" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#7A6F75">Salvador · Bahia · Brazil</text>
+</svg>
