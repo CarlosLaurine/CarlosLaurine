@@ -43,7 +43,7 @@ I work at the point where **production reliability**, **applied AI** and **ventu
 
 | | |
 |---|---|
-| **Applied AI & Agents** | LLM-powered agents, multi-step pipelines, MCP, prompt and API engineering, AI security and governance |
+| **Applied AI & Agents** | Applied AI R&D at [SapucaIA](https://sapucaia.ia.br), LLM-powered agents, multi-step pipelines, MCP, prompt and API engineering, AI security and governance |
 | **Reliability Engineering** | Observability (metrics, logs, traces), incident management, performance and load testing, cloud migrations, cost-aware infrastructure |
 | **Backend & Distributed Systems** | Java and Spring Boot microservices, event-driven architecture (Kafka, RabbitMQ), REST APIs, Python services |
 | **Trusted & Sustainable AI** | Verifiable renewable-energy certification for AI workloads ([RaízesHUB](https://raizeshub.com)), AI-native audiovisual production on local infrastructure ([AleteIA Studio](https://aleteiastudio.com/)) |
@@ -98,10 +98,11 @@ A venture studio and R&D ecosystem built in Salvador. Each company works in its 
 
 ### Where AI meets trust and craft
 
-Two ventures extend the reliability-first view of AI beyond the model itself, one on **where the compute comes from** and one on **what the AI produces**.
+Three ventures carry the reliability-first view of AI across the whole chain: **the models and evaluation** ([SapucaIA](https://sapucaia.ia.br)), **where the compute comes from** (RaízesHUB) and **what the AI produces** (AleteIA Studio).
 
 | | Venture | What it does | Why it fits |
 |---|---|---|---|
+| 🧠 | **[SapucaIA](https://sapucaia.ia.br)** *(Applied AI R&D)* | The ecosystem's AI lab. It builds evaluation harnesses, multi-agent data pipelines, specialist small models and a Portuguese-language model roadmap, and delivers proprietary AI for enterprise cases. Selected for *Beta* at Web Summit Rio 2026, and winner of the EGAESE 2026 case award with GEOEX Tecnologias for **Neoenergia**. | Puts "AI only matters when people can trust it in production" into practice: strict evaluation gates before any result moves forward. |
 | 🌱 | **[RaízesHUB](https://raizeshub.com)** *(Renewable energy and AI)* | An independent certifier that **measures, records and certifies** that AI processing ran on renewable energy, connecting power generators, data centers and the companies that consume AI. An initiative of the SapucaIA team, supported by Scupp Ventures. | Applies the SRE habit of *proving it with data* to AI's energy footprint, so sustainability claims can be audited instead of just announced. |
 | 🎬 | **[AleteIA Studio](https://aleteiastudio.com/)** *(Audiovisual and AI)* | A creative studio that makes **films for digital products with AI**, running on its own infrastructure. It turns the essence of each product into visual narratives with identity, personality and a connection to its audience. | Shows applied AI producing a real, client-facing deliverable, with the same local-infrastructure approach as the rest of the ecosystem. |
 
@@ -127,12 +128,12 @@ Two ventures extend the reliability-first view of AI beyond the model itself, on
 
 ## `05` &nbsp;Applied AI R&D
 
-Research and engineering tracks at the studio, mostly through SapucaIA:
+Research and engineering tracks at the studio, mostly through [SapucaIA](https://sapucaia.ia.br), the ecosystem's AI lab:
 
-- **Evaluation harness:** a control layer that lets only results approved by strict tests move forward, with versions for code, data analysis and OCR.
-- **Multi-agent data pipeline:** deep data analysis that brings semantics and correlation to messy datasets, preparing the ground for any AI deployment.
-- **Specialist models:** beyond LLMs, work on small language models and tiny recursive models for each step of an operational workflow.
-- **Portuguese-language model roadmap:** a proprietary Portuguese model trained on Brazilian infrastructure.
+- **Evaluation harness ([SapucaIA](https://sapucaia.ia.br)):** a control layer that lets only results approved by strict tests move forward, with versions for code, data analysis and OCR.
+- **Multi-agent data pipeline ([SapucaIA](https://sapucaia.ia.br)):** deep data analysis that brings semantics and correlation to messy datasets, preparing the ground for any AI deployment.
+- **Specialist models ([SapucaIA](https://sapucaia.ia.br)):** beyond LLMs, work on small language models and tiny recursive models for each step of an operational workflow.
+- **Portuguese-language model roadmap ([SapucaIA](https://sapucaia.ia.br)):** a proprietary Portuguese model trained on Brazilian infrastructure.
 - **Auditable AI energy use ([RaízesHUB](https://raizeshub.com)):** an independent layer that measures and records the energy behind AI processing and certifies when it came from renewable sources, tying power generators, data centers and AI consumers into one verifiable chain.
 - **AI-native production ([AleteIA Studio](https://aleteiastudio.com/)):** generative video pipelines for digital-product films, running on local infrastructure, which gives the R&D tracks above a creative, customer-facing proving ground.
 
