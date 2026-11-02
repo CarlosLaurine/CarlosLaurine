@@ -23,7 +23,8 @@
 I work at the point where **production reliability**, **applied AI** and **venture building** meet.
 
 - ⚙️ **5+ years in software engineering, 4+ at [Thomson Reuters](https://www.thomsonreuters.com/)**, where I moved from Senior Backend Development to Site Reliability Engineering on the Global Onvio Tax and Accounting platform.
-- 🤖 **Building AI agents** that bring automated quality and risk checks into the software delivery lifecycle, always with a human in the loop on the decisions that matter.
+- 🤖 **Co-designing Agentic SRE**, a multi-agent system whose statistical release-risk checks act as gates in the delivery pipeline, always with a human in the loop on the decisions that matter.
+- 🧪 **Training and evaluating small models in-house** (Python, PyTorch), with baselines first, out-of-time validation and null results reported.
 - 🚀 **Co-Founder & CEO of [Scupp Ventures](https://scuppventures.com)**, a venture studio and R&D ecosystem of ten companies that share technology, knowledge and growth strategy.
 - 🎓 **Graduate studies in Applied AI and Software Architecture** (details below), alongside full-time work.
 
@@ -33,9 +34,11 @@ I work at the point where **production reliability**, **applied AI** and **ventu
 
 - Finishing two postgraduate programs (Applied AI, ends Feb 2027; Software Architecture and Data Science with Cybersecurity, ends Nov 2026).
 - Building AI-assisted quality and risk checks for the delivery lifecycle at Thomson Reuters.
+- Running a pre-registered study on documentation retrieval and LoRA adapters for code models, null results included.
+- Preparing the Portuguese-language model run at SapucaIA (corpus and tokenizer ready) and strengthening the math under the models I use: linear algebra, probability and statistics.
 - Preparing the Nexupp app launch on 28 Nov 2026 and the studio's presence at BTX 2026.
 
-**Languages:** Portuguese (native) · English (C2 Proficient, EF SET)
+**Languages:** Portuguese (native) · English (professional; Duolingo English Test 135) · Italian (limited working) · Chinese (elementary)
 
 ---
 
@@ -43,9 +46,9 @@ I work at the point where **production reliability**, **applied AI** and **ventu
 
 | | |
 |---|---|
-| **Applied AI & Agents** | Applied AI R&D at [SapucaIA](https://sapucaia.ia.br), LLM-powered agents, multi-step pipelines, MCP, prompt and API engineering, AI security and governance |
+| **Applied AI & Agents** | Applied AI R&D at [SapucaIA](https://sapucaia.ia.br), LLM-powered agents, multi-step pipelines, MCP, prompt and API engineering, small-model training and evaluation methodology, AI security and governance |
 | **Reliability Engineering** | Observability (metrics, logs, traces), incident management, performance and load testing, cloud migrations, cost-aware infrastructure |
-| **Backend & Distributed Systems** | Java and Spring Boot microservices, event-driven architecture (Kafka, RabbitMQ), REST APIs, Python services |
+| **Backend & Distributed Systems** | Java and Spring Boot microservices, event-driven architecture (Kafka, RabbitMQ), REST APIs, Python services (FastAPI, PyTorch, pandas) |
 | **Trusted & Sustainable AI** | Verifiable renewable-energy certification for AI workloads ([RaízesHUB](https://raizeshub.com)), AI-native audiovisual production on local infrastructure ([AleteIA Studio](https://aleteiastudio.com/)) |
 | **Venture Building** | Venture-studio strategy, product and platform delivery, partnerships with companies, universities and public institutions |
 
@@ -56,12 +59,12 @@ I work at the point where **production reliability**, **applied AI** and **ventu
 | Role | Where | Period |
 |---|---|---|
 | **Senior Site Reliability Engineer** | Thomson Reuters | Jul 2024 – present |
-| **Senior Software Developer** (Backend) | Thomson Reuters | Sep 2022 – Aug 2024 |
+| **Senior Software Developer** (Backend) | Thomson Reuters | Sep 2022 – Jun 2024 |
 | **Co-Founder & CEO** | Scupp Ventures | Feb 2020 – present |
 | **Mid-Level Backend Developer**, team Security Champion | Invillia (PagSeguro) | Dec 2021 – Oct 2022 |
 | **Junior Backend Developer** | Grupo GCB | Sep 2021 – Feb 2022 |
 
-**At Thomson Reuters** I built the first performance, load and disaster tests for a set of microservices, ran observability with Datadog and Kibana, took part in incident and crisis calls, and now work on cloud migrations, observability and AI-assisted quality checks across the delivery lifecycle (AWS and GCP).
+**At Thomson Reuters** I built the first performance, load and disaster tests for a set of microservices, ran observability with Datadog and Kibana, took part in incident and crisis calls, and now work on cloud migrations, observability and AI-assisted quality checks across the delivery lifecycle (AWS and GCP). I am one of the founding engineers of **Agentic SRE**, a multi-agent system that governs the delivery lifecycle: statistical regression detection and release-risk scoring act as hard gates in the pipeline, with agents running on live production telemetry.
 
 ---
 
@@ -109,7 +112,7 @@ Three ventures carry the reliability-first view of AI across the whole chain: **
 ### Highlights
 
 - **Web Summit Rio 2026:** took four ecosystem startups to the stage. Scupp, Svend and Run Training exhibited in the *Alpha* category, and SapucaIA was selected for *Beta*, the second-highest qualification tier.
-- **EGAESE 2026:** SapucaIA and GEOEX Tecnologias built a proprietary AI model for **Neoenergia** and won the case award. Asset-management AI covers seven verticals, starting with asset inventory and anomaly detection on a digital twin of operational data.
+- **EGAESE 2026:** SapucaIA and GEOEX Tecnologias built a proprietary AI model for **Neoenergia** and won the case award. The work spans seven asset-management verticals studied as proofs of concept (inventory, CAPEX, unitization, materials, purchase and distribution planning, copilot), starting with inventory-deviation risk ranking.
 - **Prêmio Innpulse Bahia 2026:** Nexupp is a semifinalist in the *Territórios de Inovação* category.
 - **Programs:** Google for Startups Cloud, Datadog for Startups, MongoDB for Startups, Founder Institute alumni.
 - **Ecosystem:** founding partner of the Startup Acceleration Program at **DOCA1** (Salvador's creative-economy hub). Partnerships with Grupo Alun (FIAP, Alura), AWS Student Builders Group, Sebrae and Darwin Startups. Sponsor of two university tech leagues (LAMIT at UCSAL, LACITE at UNIJORGE).
@@ -128,29 +131,59 @@ Three ventures carry the reliability-first view of AI across the whole chain: **
 
 ## `05` &nbsp;Applied AI R&D
 
-Research and engineering tracks at the studio, mostly through [SapucaIA](https://sapucaia.ia.br), the ecosystem's AI lab:
+Research and engineering tracks at the studio, mostly through [SapucaIA](https://sapucaia.ia.br), the ecosystem's AI lab. The lab runs on its own infrastructure (an NVIDIA DGX Spark with 121 GB of unified memory, plus AWS and GCP), and the emphasis is on **small, specialist models and verifiable pipelines** rather than one giant model for everything.
 
-- **Evaluation harness ([SapucaIA](https://sapucaia.ia.br)):** a control layer that lets only results approved by strict tests move forward, with versions for code, data analysis and OCR.
-- **Multi-agent data pipeline ([SapucaIA](https://sapucaia.ia.br)):** deep data analysis that brings semantics and correlation to messy datasets, preparing the ground for any AI deployment.
-- **Specialist models ([SapucaIA](https://sapucaia.ia.br)):** beyond LLMs, work on small language models and tiny recursive models for each step of an operational workflow.
-- **Portuguese-language model roadmap ([SapucaIA](https://sapucaia.ia.br)):** a proprietary Portuguese model trained on Brazilian infrastructure.
-- **Auditable AI energy use ([RaízesHUB](https://raizeshub.com)):** an independent layer that measures and records the energy behind AI processing and certifies when it came from renewable sources, tying power generators, data centers and AI consumers into one verifiable chain.
-- **AI-native production ([AleteIA Studio](https://aleteiastudio.com/)):** generative video pipelines for digital-product films, running on local infrastructure, which gives the R&D tracks above a creative, customer-facing proving ground.
+### Selected work
 
-<!-- TODO (Carlos): add 1-2 lines on what YOU personally built or led in these tracks, and link any public repo. -->
+| Track | What it is | Stage |
+|---|---|---|
+| **Applied ML for an electric-utility client** | Inventory-deviation risk ranking and six more verticals (CAPEX, unitization, materials, purchase and distribution planning, copilot). Out-of-time validation with no leakage, bootstrap intervals, Wilcoxon tests, logistic-regression and gradient-boosting baselines. In two verticals the simple baseline won, and we reported it. | Proofs of concept on the client's homologation data. Client-confidential: no data, metrics or code are public |
+| **Small models trained in-house** | A ~26M-parameter GPT trained from scratch on records serialized as text; a ModernBERT multi-label event classifier; LoRA adapters on Qwen2.5-Coder; a ~1.8B Portuguese-language model in preparation (corpus and tokenizer ready) | Classifier and GPT in use; the Portuguese model is awaiting its first training run |
+| **ossagent** | Supervised code generation: a local model writes the code, a read-only reviewer checks API usage, and an **objective verifier with no LLM** (ruff, pytest, tsc, eslint) decides. A frontier model supervises and takes over on escalation. Every run is traced in Langfuse and logged to a ledger | In daily use, with hundreds of logged runs; a self-improvement loop is under construction |
+| **datalens** | Multi-agent pipeline that infers table semantics and relationships in undocumented schemas: a deterministic profiler first, then agents, then an adversarial critic that checks every proposal against the data | In active development |
+| **Retrieval and LoRA study** | Does documentation retrieval help specialized code models? Pre-registered plan and decision rules. A fine-tuned dense retriever did **not** beat BM25 under the pre-registered rule, and that null result is reported | Research project in progress |
+| **Local AI platform** | A lease arbiter for the single large-model slot (large models cannot coexist in unified memory); measured serving notes (active parameters, not quantization, dominated decode speed; structured-output adherence went from 0% to 95% with the right parser flag); and a documented, closed failed attempt that ended in an out-of-memory reboot | Operating lab |
+| **Speech to minutes** | Voice activity detection, WhisperX transcription and pyannote diarization, then minutes drafted by an LLM and **audited against the transcript** in a second pass | Running for the studio |
+| **Auditable AI energy use ([RaízesHUB](https://raizeshub.com))** | An independent layer that measures and records the energy behind AI processing and certifies when it came from renewable sources. Includes a unit-economics model with a published sensitivity analysis showing the original resale margin does not close at current assumptions | MVP prototyping |
+| **AI-native production ([AleteIA Studio](https://aleteiastudio.com/))** | Generative video pipelines for digital-product films, running on local infrastructure | In operation |
+
+<sub>Most of this code lives in private repositories (employer, client and NDA-bound work), so this profile documents the method instead of the code.</sub>
 
 ---
 
-## `06` &nbsp;Tech Stack
+## `06` &nbsp;How I Evaluate AI Systems
+
+The habits I bring from reliability engineering into model work:
+
+- **Baselines first.** A new model has to beat logistic regression and gradient boosting before it earns a place.
+- **Out-of-time validation, no leakage.** History strictly in the past; the outcome is never a feature.
+- **Intervals and tests, not point estimates.** Bootstrap and rank tests before any claim of improvement.
+- **Decide before you look.** Pre-registered plans and decision rules, so the result cannot rewrite the question.
+- **Report null results.** A retriever that fails its pre-registered test goes in the write-up.
+- **Verifiers over self-judgment.** Objective checks (compilers, tests, linters) decide; the model does not grade itself.
+- **Fail closed.** If the data cannot support a figure, the pipeline withholds it instead of inventing one.
+- **Real data or a label.** Synthetic data is declared as synthetic, and every unsourced input is a labeled hypothesis, not a projection.
+- **Write the decision down.** Every relevant decision goes into a decision log.
+- **Say what is noisy.** After finding a data-loader race that made training runs non-reproducible, I fixed it and flagged that earlier results carry more noise than I had assumed.
+
+---
+
+## `07` &nbsp;Tech Stack
 
 **AI & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square)
+![LoRA / PEFT](https://img.shields.io/badge/LoRA_%2F_PEFT-8A2BE2?style=flat-square)
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-C8264A?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-5E5C5C?style=flat-square)
-![Fine-tuning](https://img.shields.io/badge/Fine--tuning-8A2BE2?style=flat-square)
 
 **Reliability, Observability & Cloud**
 
@@ -195,7 +228,7 @@ Research and engineering tracks at the studio, mostly through [SapucaIA](https:/
 
 ---
 
-## `07` &nbsp;Education
+## `08` &nbsp;Education
 
 | Program | Institution | Status |
 |---|---|---|
@@ -204,11 +237,33 @@ Research and engineering tracks at the studio, mostly through [SapucaIA](https:/
 | **Postgraduate (lato sensu): Software Architecture and Data Science with Cybersecurity** | PUCPR | Ends Nov 2026. Applied project approved (9.70/10) |
 | **Founder Institute** | Startup environment, innovation and entrepreneurship | Graduate, 2023 |
 
-**Certifications:** EF SET C2 Proficient (English) · Duolingo English Test 135 · Decoder Bootcamp: Microservices Architecture with Java and Spring (330 h) · JMeter: Performance and Load Testing · REST APIs with Spring Boot, JPA and PostgreSQL.
+**Relevant coursework (B.Sc.):** Artificial Intelligence (10.00/10), Data Structures, Algorithms, Discrete Structures and Logic, Probability and Statistics, Calculus I, Computer Architecture, Operating Systems, Computer Networks, Distributed Systems, Compilers, Databases.
+
+**Certifications:** Duolingo English Test 135 · Decoder Bootcamp: Microservices Architecture with Java and Spring (330 h) · JMeter: Performance and Load Testing · REST APIs with Spring Boot, JPA and PostgreSQL.
 
 ---
 
-## `08` &nbsp;GitHub
+## `09` &nbsp;Writing and Research
+
+- **Nexupp: Secure and Scalable Architecture for Gamified Networking at In-Person Events** (postgraduate final project, PUCPR, 2026; approved 9.70/10). An audit of an MVP and a secure, LGPD-compliant target architecture with a 16-week plan to a pilot, including SLOs, a DevSecOps pipeline and a risk matrix.
+- **Microservice Architecture Versus Monolithic: an Empirical Feasibility Analysis with Performance Tests and a Case Study** (undergraduate thesis, UCSal, 2024).
+- **Research internships (UFBA, 2018):** Nuclear Physics Institute (scanning electron and atomic force microscopy on fluorine-doped tin oxide films for solar-energy conversion) and the Optic Properties Lab (an early-stage method to detect soil nematodes).
+
+---
+
+## `10` &nbsp;GitHub
+
+### Public repositories
+
+Most of my AI, reliability and Python work is private. What is public today is the earlier Java and Spring Cloud work:
+
+| Repository | What it shows |
+|---|---|
+| [E-Learning platform, microservices](https://github.com/CarlosLaurine?tab=repositories&q=E-LearningPlatform) | A Spring Cloud reference architecture: service registry, config server (with its properties repository), API gateway, and domain services for users, courses and notifications |
+| [Complete DS Catalog App](https://github.com/CarlosLaurine/Complete-DS-Catalog-App) | A Spring Boot REST application with a catalog domain |
+
+<!-- Add here, once published: a small public project in Python with its pre-registration or evaluation notes, linked from Featured on LinkedIn. -->
+
 
 <div align="center">
 
