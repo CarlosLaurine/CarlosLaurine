@@ -46,6 +46,7 @@ I work at the point where **production reliability**, **applied AI** and **ventu
 | **Applied AI & Agents** | LLM-powered agents, multi-step pipelines, MCP, prompt and API engineering, AI security and governance |
 | **Reliability Engineering** | Observability (metrics, logs, traces), incident management, performance and load testing, cloud migrations, cost-aware infrastructure |
 | **Backend & Distributed Systems** | Java and Spring Boot microservices, event-driven architecture (Kafka, RabbitMQ), REST APIs, Python services |
+| **Trusted & Sustainable AI** | Verifiable renewable-energy certification for AI workloads ([RaízesHUB](https://raizeshub.com)), AI-native audiovisual production on local infrastructure ([AleteIA Studio](https://aleteiastudio.com/)) |
 | **Venture Building** | Venture-studio strategy, product and platform delivery, partnerships with companies, universities and public institutions |
 
 ---
@@ -95,6 +96,15 @@ A venture studio and R&D ecosystem built in Salvador. Each company works in its 
 
 <sub>Every card links to the company's site. The full ecosystem is at <a href="https://scuppventures.com">scuppventures.com</a>.</sub>
 
+### Where AI meets trust and craft
+
+Two ventures extend the reliability-first view of AI beyond the model itself, one on **where the compute comes from** and one on **what the AI produces**.
+
+| | Venture | What it does | Why it fits |
+|---|---|---|---|
+| 🌱 | **[RaízesHUB](https://raizeshub.com)** *(Renewable energy and AI)* | An independent certifier that **measures, records and certifies** that AI processing ran on renewable energy, connecting power generators, data centers and the companies that consume AI. An initiative of the SapucaIA team, supported by Scupp Ventures. | Applies the SRE habit of *proving it with data* to AI's energy footprint, so sustainability claims can be audited instead of just announced. |
+| 🎬 | **[AleteIA Studio](https://aleteiastudio.com/)** *(Audiovisual and AI)* | A creative studio that makes **films for digital products with AI**, running on its own infrastructure. It turns the essence of each product into visual narratives with identity, personality and a connection to its audience. | Shows applied AI producing a real, client-facing deliverable, with the same local-infrastructure approach as the rest of the ecosystem. |
+
 ### Highlights
 
 - **Web Summit Rio 2026:** took four ecosystem startups to the stage. Scupp, Svend and Run Training exhibited in the *Alpha* category, and SapucaIA was selected for *Beta*, the second-highest qualification tier.
@@ -122,7 +132,9 @@ Research and engineering tracks at the studio, mostly through SapucaIA:
 - **Evaluation harness:** a control layer that lets only results approved by strict tests move forward, with versions for code, data analysis and OCR.
 - **Multi-agent data pipeline:** deep data analysis that brings semantics and correlation to messy datasets, preparing the ground for any AI deployment.
 - **Specialist models:** beyond LLMs, work on small language models and tiny recursive models for each step of an operational workflow.
-- **Portuguese-language model roadmap:** a proprietary Portuguese model trained on Brazilian infrastructure, plus **RaízesHUB**, which proves that AI workloads ran on renewable energy.
+- **Portuguese-language model roadmap:** a proprietary Portuguese model trained on Brazilian infrastructure.
+- **Auditable AI energy use ([RaízesHUB](https://raizeshub.com)):** an independent layer that measures and records the energy behind AI processing and certifies when it came from renewable sources, tying power generators, data centers and AI consumers into one verifiable chain.
+- **AI-native production ([AleteIA Studio](https://aleteiastudio.com/)):** generative video pipelines for digital-product films, running on local infrastructure, which gives the R&D tracks above a creative, customer-facing proving ground.
 
 <!-- TODO (Carlos): add 1-2 lines on what YOU personally built or led in these tracks, and link any public repo. -->
 
