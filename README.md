@@ -137,7 +137,7 @@ Research and engineering tracks at the studio, mostly through [SapucaIA](https:/
 
 | Track | What it is | Stage |
 |---|---|---|
-| **Applied ML for an electric-utility client** | Inventory-deviation risk ranking and six more verticals (CAPEX, unitization, materials, purchase and distribution planning, copilot). Out-of-time validation with no leakage, bootstrap intervals, Wilcoxon tests, logistic-regression and gradient-boosting baselines. In two verticals the simple baseline won, and we reported it. | Proofs of concept on the client's homologation data. Client-confidential: no data, metrics or code are public |
+| **Applied ML for an electric-utility client** | Inventory-deviation risk ranking and six more verticals (CAPEX, unitization, materials, purchase and distribution planning, copilot). Out-of-time validation with no leakage, bootstrap intervals, Wilcoxon tests, logistic-regression and gradient-boosting baselines. In two verticals the simple baseline won, and we reported it. | Proofs of concept on the client's homologation data. Under NDA: no data, metrics or code can be shared |
 | **Small models trained in-house** | A ~26M-parameter GPT trained from scratch on records serialized as text; a ModernBERT multi-label event classifier; LoRA adapters on Qwen2.5-Coder; a ~1.8B Portuguese-language model in preparation (corpus and tokenizer ready) | Classifier and GPT in use; the Portuguese model is awaiting its first training run |
 | **ossagent** | Supervised code generation: a local model writes the code, a read-only reviewer checks API usage, and an **objective verifier with no LLM** (ruff, pytest, tsc, eslint) decides. A frontier model supervises and takes over on escalation. Every run is traced in Langfuse and logged to a ledger | In daily use, with hundreds of logged runs; a self-improvement loop is under construction |
 | **datalens** | Multi-agent pipeline that infers table semantics and relationships in undocumented schemas: a deterministic profiler first, then agents, then an adversarial critic that checks every proposal against the data | In active development |
@@ -147,7 +147,7 @@ Research and engineering tracks at the studio, mostly through [SapucaIA](https:/
 | **Auditable AI energy use ([RaízesHUB](https://raizeshub.com))** | An independent layer that measures and records the energy behind AI processing and certifies when it came from renewable sources. Includes a unit-economics model with a published sensitivity analysis showing the original resale margin does not close at current assumptions | MVP prototyping |
 | **AI-native production ([AleteIA Studio](https://aleteiastudio.com/))** | Generative video pipelines for digital-product films, running on local infrastructure | In operation |
 
-<sub>Most of this code lives in private repositories (employer, client and NDA-bound work), so this profile documents the method instead of the code.</sub>
+<sub>All of this work is covered by non-disclosure agreements, so this profile documents the method instead of the code.</sub>
 
 ---
 
